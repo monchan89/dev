@@ -1,0 +1,2 @@
+class ByeController < ApplicationController
+end
